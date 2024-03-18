@@ -2,4 +2,4 @@ void get(){;}
 
 void getchar(){;}
 
-int main (){auto i{0};return i;}
+int main (){int i{0};return i;}
