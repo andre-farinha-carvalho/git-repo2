@@ -1,5 +1,5 @@
-void get(){}
+void get(){;}
 
-void getchar(){}
+void getchar(){;}
 
 int main (){auto i{0};return i;}
