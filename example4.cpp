@@ -1,1 +1,1 @@
-int main (){return 0;}
+int main (){auto i{0};return i;}
